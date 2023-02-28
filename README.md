@@ -1,6 +1,6 @@
 # aqa-7517-skeleton
 
-The PDF for the problem description is [on this repo](./7517-1-PM-Computer Science-A-XXMay23-TBC-E6.pdf).
+The PDF for the problem description is [on this repo](./7517-1-PM-Computer%20Science-A-XXMay23-TBC-E6.pdf).
 
 The original files are here:
 
